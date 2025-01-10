@@ -7,4 +7,7 @@ class HelloJava{
     public static int sum_method(int a, int b){
         return a + b;
     }
+	public void printMyName(){
+        System.out.println("Hello shereen!");
+    }
 }
