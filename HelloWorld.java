@@ -8,6 +8,6 @@ class HelloJava{
         return a + b;
     }
 	public void printMyName(){
-        System.out.println("Hello shereen!");
+        System.out.println("Hello i'm shereen!");
     }
 }
